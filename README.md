@@ -5,7 +5,7 @@
 💻 Passionné par la programmation, les technologies web, et la résolution de problèmes  
 🌍 Basé en France – Originaire de Guinée  
 📫 Contact : alphaoumar2260@gmail.com  
-🌐 Portfolio : [https://alphaDev-Full.github.io/projet-sportify](https://alphaDev-Full.github.io/projet-sportify)
+🌐 Portfolio : [https://alphaDev-Full.github.io/projet-sportify](https://alphaDev-Full.github.io/)
 
 ## 💼 Mes projets
 
