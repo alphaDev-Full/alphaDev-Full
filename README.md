@@ -4,11 +4,11 @@
 🔍 En recherche d'une alternance en développement web (Front-end / Back-end / Full Stack)  
 💻 Passionné par la programmation, les technologies web, et la résolution de problèmes  
 📫 Contact : alphaoumar2260@gmail.com  
-🌐 Portfolio : [https://alphaDev-Full.github.io/projet-sportify](https://alphaDev-Full.github.io)
 
 ## 💼 Mes projets
 
 - 🔗 [Sportify – Plateforme de réservation sportive](https://github.com/alphaDev-Full/projet-sportify)
+- 🔗 [Galerie d'images – Gestion d'une bibliothèque d'images](https://github.com/alphaDev-Full/galerie_images)
 
 ## 🛠️ Technologies
 
