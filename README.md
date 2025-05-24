@@ -8,7 +8,8 @@
 ## 💼 Mes projets
 
 - 🔗 [Sportify – Plateforme de réservation sportive](https://github.com/alphaDev-Full/projet-sportify)
-- 🔗 [Galerie d'images – Gestion d'une bibliothèque d'images](https://github.com/alphaDev-Full/galerie_images)
+- 🔗 [Galerie d'images – Gestion d'une bibliothèque d'images](https://github.com/alphaDev-Full/Gestion-galerie-image)
+- 🔗 [Space Invader – Le jeu Space Invader avec 100% processing](https://github.com/alphaDev-Full/Projet_Space_Invider)
 
 ## 🛠️ Technologies
 
