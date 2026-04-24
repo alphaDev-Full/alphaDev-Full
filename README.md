@@ -23,7 +23,7 @@ Je suis à la recherche d'un contrat d'alternance de 24 mois (Rythme : 2 semaine
     Email : alphaoumar2260@gmail.com
 
 ## 💼 Mes projets
-- 🔗 [Sportify – Mon portfolio (privé)](https://github.com/alphaDev-Full/projet-sportify)
+- 🔗 [Sportify – Mon portfolio (privé)](https://github.com/alphaDev-Full/MonPortfolio)
 - 🔗 [Genelog - Logiciel de gestion d'arbre généalogique](https://github.com/alphaDev-Full/Genealogie_Familiale)
 - 🔗 [Sportify – Plateforme de réservation sportive](https://github.com/alphaDev-Full/projet-sportify)
 - 🔗 [Galerie d'images – Gestion d'une bibliothèque d'images](https://github.com/alphaDev-Full/Gestion-galerie-image)
