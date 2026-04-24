@@ -18,7 +18,7 @@ Je suis à la recherche d'un contrat d'alternance de 24 mois (Rythme : 2 semaine
 
 ## 📫 Me contacter
 
-    Portfolio : alphadev-fullstack.vercel.app
+    Portfolio : https://alphadev-fullstack.vercel.app/home
 
     Email : alphaoumar2260@gmail.com
 
