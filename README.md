@@ -1,11 +1,13 @@
-Salut 👋, moi c’est Alpha Oumar Baldé ! 👨‍💻
+Salut 👋, moi c’est ALPHA OUMAR BALDE ! 👨‍💻
 
 Apprenti Développeur Full Stack & Futur Master Informatique Décisionnelle
 
 Après une alternance réussie en tant que Développeur Full Stack, j'achève ma L3 MIAGE et je me dirige vers un Master en Informatique Décisionnelle à l'Université Paris-Saclay. J'aime construire des applications robustes tout en m'intéressant de près à l'analyse et à la gestion des données.
+
 🎯 Ce que je cherche
 
 Je suis à la recherche d'un contrat d'alternance de 24 mois (Rythme : 2 semaines entreprise / 2 semaines université) pour mettre mes compétences techniques au service de vos projets SI ou Data.
+
 🛠️ Ce que je fais
 
     Développement Web : Angular, Node.js, TypeScript, PHP
